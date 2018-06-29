@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "574356723027",
+    "firebase_url": "https://comedyfeed-14e0d.firebaseio.com",
+    "project_id": "comedyfeed-14e0d",
+    "storage_bucket": "comedyfeed-14e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574356723027:android:844be00abad93d79",
+        "android_client_info": {
+          "package_name": "in.wission.comedyfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574356723027-gousol72truur9mmbo95eh7plb2u132c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wission.comedyfeed",
+            "certificate_hash": "2848a8086d2950b485e234bc175689995032fb7d"
+          }
+        },
+        {
+          "client_id": "574356723027-p9ufle7b7jojbith22shgn8pbo6r6l7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHMQE73AmBNnUeFx7M1fVIL89tR9KoNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574356723027-p9ufle7b7jojbith22shgn8pbo6r6l7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Comedy Feed</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_log_in">Log In</string>
+    <string name="title_activity_feed">Comedy Feed</string>
+
+    <string name="log_in_button_text">Log In</string>
+    <string name="log_in_email_hint">E-mail</string>
+    <string name="log_in_password_hint">Password</string>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="text_not_registered">Not Registered?</string>
+
+    <string name="comment_button_text">Comment..</string>
+    <string name="thumbnail_content_description">Video Thumbnail</string>
+    <string name="video_view_text">Views:</string>
+    <string name="video_like_text">YT Likes:</string>
+    <string name="video_comment_text">Comments</string>
+
+    <string name="youtube_API_key">AIzaSyBRHMQE73AmBNnUeFx7M1fVIL89tR9KoNs</string>
+
+    <string name="sign_up_name_hint">Name</string>
+    <string name="sign_up_email_hint">E-mail</string>
+    <string name="sign_up_password_hint">Password</string>
+    <string name="sign_up_age">Age</string>
+    <string name="sign_up_gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_other">Other</string>
+
+    <string name="add_comment_text">Add Comment</string>
+    <string name="done_button_text">Done</string>
+    <string name="hint_add_comment">Add a Comment</string>
+
+    <string name="cont_desc_cross_button">Cross Button</string>
+    <string name="con_desc_profile_pic">Profile_Picture</string>
+    <string name="con_desc_logout">Log Out</string>
+
+</resources>
